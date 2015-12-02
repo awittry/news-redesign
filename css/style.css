@@ -27,6 +27,11 @@
 	margin-top: 10px;
 	margin-bottom: 20px;
 }
+a {
+	color: #3B0B0B;
+	background-color: transparent;
+	text-decoration: none;
+}
 h1 {
 	text-align: center;
 	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
