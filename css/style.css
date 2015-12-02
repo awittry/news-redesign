@@ -1,9 +1,10 @@
 .header {
-	background-color: red;
+	background-color: #F78181;
 	font-size: 50px;
 	word-spacing: 5px;
 	color: white;
 	text-align: center;
+	font-family: Tahoma, Geneva, sans-serif;
 	font-weight: bold;
 	padding-top: 15px;
 	padding-bottom: 15px;
@@ -11,6 +12,7 @@
 }
 .subhead {
 	text-align: center;
+	font-family: "Arial Black", Gadget, sans-serif;
 	font-weight: bold;
 }
 .container {
@@ -21,36 +23,42 @@
 }
 .daily-briefing {
 	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
 	margin-top: 10px;
 	margin-bottom: 20px;
 }
 h1 {
 	text-align: center;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 	font-weight: bold;
 	font-size: 50px;
 }
 h2 {
 	text-align: left;
+	font-family: Georgia, serif;
 	font-weight: bold;
 	margin-bottom: 5px;
 	margin-top: 10px;
 }
 h3 {
 	text-align: left;
-	color: red;
+	font-family: Georgia, serif;
+	color: #B43104;
 	margin-bottom: 5px;
 }
 h4 {
-	color: red;
+	color: #B43104;
 	text-align: center;
+	font-family: Georgia, serif;
 	font-weight: bold;
 	margin-top: 5px;
 	margin-bottom: 10px;
 	font-size: 30px;
 }
 h5 {
-	color: red;
+	color: #B43104;
 	text-align: center;
+	font-family: Georgia, serif;
 	font-weight: bold;
 	margin-bottom: 5px;
 }
@@ -58,7 +66,7 @@ li {
 	margin-top: 10px;
 }
 .date {
-	color: red;
+	color: #B43104;
 	font-weight: bold;
 }
 p {
@@ -68,7 +76,7 @@ p {
 	margin-top: 10px;
 }
 .footer {
-	background-color: black;
+	background-color: #3B0B0B;
 	color: white;
 	margin-top: 15px;
 	text-align: center;
@@ -97,8 +105,8 @@ p {
 		display: none;
 	}
 	.header {
-		background-color: black;
-		color: red;
+		background-color: #3B0B0B;
+		color: #B43104;
 		padding-top: 8px;
 		padding-bottom: 8px;
 	}
@@ -124,12 +132,12 @@ p {
 	}
 	.header {
 		background-color: white;
-		color: black;
+		color: #3B0B0B;
 		padding-top: 5px;
 		padding-bottom: 5px;
 	}
 	.subhead {
-		background-color: red;
+		background-color: #B43104;
 		font-size: 12px;
 	}
 	h1 {
